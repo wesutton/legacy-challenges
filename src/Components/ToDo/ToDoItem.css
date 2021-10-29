@@ -1,0 +1,19 @@
+.todoItem {
+    margin: 10px;
+    margin-left: 130px;
+    border-radius: 30px;
+    padding-top: 8px;
+    height: 45px;
+    width: 250px;
+    cursor: pointer;
+    font-size: 20px;
+    background: lightcoral;
+    color: rgb(255, 252, 239);
+    
+
+}
+
+.completed {
+    text-decoration: line-through;
+    background: rgb(147, 212, 55);
+}
